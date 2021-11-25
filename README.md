@@ -4,7 +4,7 @@
 - :earth_americas: Atualmente estou estudando .NET (C# e VB)
 - :books:Estudande de Análise e desenvolvimento de Sistemas
 - :mountain_cableway: Banco de dados MySQL e SQLSERVER
-- 🌱 iniciei recentemente sobre PHP (Projeto está público)
+- 🌱 iniciei recentemente estudo sobre PHP (Projeto está público)
 - 👯 Tenho especialidade em MS Access e VBA
 - :building_construction: Possuo um canal disponível no Youtube sobre MS Access <a href="https://www.youtube.com/WelbertSabino">Meu canal</a>
 - 📫 Fale comigo pelo email: sabinowelbert@gmail.com
