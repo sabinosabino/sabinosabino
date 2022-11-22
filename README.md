@@ -1,7 +1,7 @@
 <H1>Olá, eu sou Welbert Sabino</H1>
 
 
-- :earth_americas: Atualmente estou desenvolvendo .NET (C# e VB)
+- :earth_americas: Atualmente estou desenvolvendo em ASP.NET CORE (C# e VB)
 - 🌎React, JavaScript, Html, Css, Bootstrap
 - :books:Estudande de Análise e desenvolvimento de Sistemas
 - :mountain_cableway: Banco de dados MySQL e SQLSERVER
