@@ -2,7 +2,7 @@
 
 
 - :earth_americas: Atualmente estou estudando .NET (C# e VB)
-- :🌎:React
+- 🌎:React
 - :books:Estudande de Análise e desenvolvimento de Sistemas
 - :mountain_cableway: Banco de dados MySQL e SQLSERVER
 - 🌱 iniciei recentemente estudo sobre PHP (Projeto está público)
